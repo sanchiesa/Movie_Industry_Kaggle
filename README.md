@@ -1,10 +1,10 @@
 # Data analysis
 - Document here the project: Movie_Industry_Kaggle
-- Description: Project Description
-- Data Source:
-- Type of analysis:
+- Description: Analyse Kaggle's movie industry dataset to extract insights on how to maximize profit.
+- Data Source: https://www.kaggle.com/danielgrijalvas/movies
+- Type of analysis: Exploratory
 
-Please document the project the better you can.
+
 
 # Startup the project
 
